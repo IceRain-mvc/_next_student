@@ -1,0 +1,74 @@
+{
+  "../node_modules/next/dist/client/index.js -> ../pages/_error": {
+    "id": "./node_modules/next/dist/pages/_error.js",
+    "files": [
+      "static/chunks/node_modules_next_dist_pages__error_js.js"
+    ]
+  },
+  "../src/components/Nav/HeaderList.tsx -> @component/Nav/message": {
+    "id": "./src/components/Nav/message.tsx",
+    "files": [
+      "static/chunks/src_components_Nav_message_tsx-_63411.js"
+    ]
+  },
+  "../src/components/Nav/HeaderList.tsx -> @component/Nav/password": {
+    "id": "./src/components/Nav/password.tsx",
+    "files": [
+      "static/chunks/src_components_Nav_password_tsx.js"
+    ]
+  },
+  "../src/components/Nav/header.tsx -> @component/Nav/HeaderList": {
+    "id": "./src/components/Nav/HeaderList.tsx",
+    "files": [
+      "static/chunks/src_components_Nav_HeaderList_tsx.js"
+    ]
+  },
+  "../src/components/Nav/middle.tsx -> @component/Nav/message": {
+    "id": "./src/components/Nav/message.tsx",
+    "files": [
+      "static/chunks/src_components_Nav_message_tsx-_63410.js"
+    ]
+  },
+  "../src/components/common/join/join.tsx -> @/components/common/button/button": {
+    "id": "./src/components/common/button/button.tsx",
+    "files": [
+      "static/chunks/src_components_common_button_button_tsx.js"
+    ]
+  },
+  "../src/components/exam/examTwo.tsx -> @/components/grade/message": {
+    "id": "./src/components/grade/message.tsx",
+    "files": [
+      "static/chunks/src_components_grade_message_tsx.js"
+    ]
+  },
+  "exam/index.tsx -> @component/Nav/header": {
+    "id": "./src/components/Nav/header.tsx",
+    "files": [
+      "static/chunks/src_components_Nav_header_tsx-_2ac41.js"
+    ]
+  },
+  "exam/index.tsx -> @component/Nav/middle": {
+    "id": "./src/components/Nav/middle.tsx",
+    "files": [
+      "static/chunks/src_components_Nav_middle_tsx.js"
+    ]
+  },
+  "exam/index.tsx -> @component/exam/examContent": {
+    "id": "./src/components/exam/examContent.tsx",
+    "files": [
+      "static/chunks/src_components_exam_examContent_tsx.js"
+    ]
+  },
+  "exam/join.tsx -> @component/Nav/header": {
+    "id": "./src/components/Nav/header.tsx",
+    "files": [
+      "static/chunks/src_components_Nav_header_tsx-_2ac40.js"
+    ]
+  },
+  "exam/join.tsx -> @component/exam/examTwo": {
+    "id": "./src/components/exam/examTwo.tsx",
+    "files": [
+      "static/chunks/src_components_exam_examTwo_tsx.js"
+    ]
+  }
+}
